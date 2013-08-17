@@ -1,0 +1,1 @@
+from structured_matrix import StructuredMatrix
